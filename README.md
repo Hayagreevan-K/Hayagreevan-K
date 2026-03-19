@@ -86,7 +86,7 @@ Worked on:
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add link)*
+* 💼 LinkedIn: www.linkedin.com/in/hayagreevan-kandhala
 * 💻 GitHub: https://github.com/Hayagreevan-K
 
 ---
